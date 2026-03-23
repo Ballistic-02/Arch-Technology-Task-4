@@ -60,5 +60,6 @@ The model identified the following as the most significant predictors of a movie
 The Random Forest model successfully predicts user ratings with high precision (MAE < 0.5). These insights allow Arch Technologies to prioritize content based on director popularity and production scale to maximize user satisfaction.
 ________________________________________
 Submitted by: Adeoye Boluwatife Emmanuel
+
 Date: March 27, 2026
 
